@@ -9,10 +9,7 @@ Each folder corresponds to an independent project:
 |---------|--------------|
 | [`powerbi_dashboard/`](powerbi_dashboard) | Power BI dashboard for tracking key commercial KPIs (volume, distribution, discounts, etc.). |
 | [`forecasting_sales/`](forecasting_sales) | Python project for forecasting visits by store. Includes synthetic datasets, scripts for data preprocessing, and time series forecasting models using Prophet. Provides both daily and monthly visits predictions, as well as visualizations of trends, seasonality, and event impacts. |
-| [`client_segmentation/`](client_segmentation) | This project aims to perform a customer segmentation analysis using synthetic data.
-The goal is to simulate a realistic business case 
-and apply clustering techniques (K-Means) to identify customer segments 
-based on behavioral and financial attributes. |
+| [`client_segmentation/`](client_segmentation) | This project aims to perform a customer segmentation analysis using synthetic data. The goal is to simulate a realistic business case and apply clustering techniques (K-Means) to identify customer segments based on behavioral and financial attributes. |
 
 
 ## ⚙️ Working Environment

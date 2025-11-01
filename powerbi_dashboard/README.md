@@ -86,6 +86,7 @@ It is divided into **three interactive sections**:
 **[Saad Roki Chaoui]** – Sales Data Analyst Associate | PowerBI Specialist  
 🔗 [LinkedIn](https://www.linkedin.com/in/saad-roki-chaoui-24956315a/)  
 📧 saad.chaoui.roki@gmail.com
+🌐 [Certifications](https://www.datacamp.com/certificate/DAA0010704791802)
 
 ---
 

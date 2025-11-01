@@ -41,20 +41,20 @@ It is divided into **three interactive sections**:
 - **Total Orders:** 300  
 - **Number of Customers:** 49  
 - **Average Order Value:** 4.78K  
-- Italy leads in sales (464K), followed by Germany and Spain.  
-- Revenue trend shows strong performance in **May** and **August**.
+- **Quantity sold**: 1,508 units.
+- Accessories leads sales with 33% of the total quantity sold.  
+- Quantity trend shows strong performance in **April** and **May**.
 
 ### 🔹 Product Analysis
 - **Top Product Revenue:** 160K  
-- **Top Category:** Accessories (32% of total revenue)  
-- High-performing categories: *Accessories*, *Software*, *Computers*.  
-- Quantity sold: 1,508 units.
+- **Month with strong revenue:** April with 157k euros and July with 175k.    
+
 
 ### 🔹 Customer Analysis
 - **Average Revenue per Customer:** 28.66K  
 - **Customer Lifetime Value:** 171.97K  
 - **Top Country by Revenue:** Italy  
-- Even distribution among customer segments: *Individual*, *SMB*, *Enterprise*.
+- Same distribution of customers among segments: *Individual*, *SMB*, *Enterprise*.
 
 ---
 

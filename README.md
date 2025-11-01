@@ -12,7 +12,7 @@ Each folder corresponds to an independent project:
 | [`powerbi_dashboard/`](powerbi_dashboard) | Power BI dashboard for tracking key commercial KPIs (volume, distribution, discounts, etc.). |
 
 ## ⚙️ Working Environment
-- **Languages**: Python, DAX, SQL  
+- **Languages**: Python, DAX  
 - **Tools**: Power BI, Excel, GitHub, Anaconda  
 - **Key Libraries**: pandas, prophet, matplotlib, scikit-learn  
 

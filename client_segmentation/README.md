@@ -2,7 +2,7 @@
 
 This project aims to perform a customer segmentation analysis using synthetic data.
 The goal is to simulate a realistic business case 
-and apply clustering techniques (K-Means, PCA, etc.) to identify customer segments 
+and apply clustering techniques (K-Means) to identify customer segments 
 based on behavioral and financial attributes.
 
 ⚠️ All data used in this project is entirely synthetic and generated for demonstration purposes only.
